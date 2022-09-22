@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**GLGDLY/GLGDLY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Gary Leung** with currently studying in university.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌳 I'm familiar with...
+
+![Python](https://img.shields.io/badge/python-lightgreen.svg?style=plastic&logo=Python)
+![C](https://img.shields.io/badge/C-blue.svg?style=plastic&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-blue.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=plastic&logo=javascript)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+
+🌱 I’m currently learning ...
+
+![Go](https://img.shields.io/badge/go-green.svg?style=plastic&logo=Go)
+![Docker](https://img.shields.io/badge/Docker-lightgrey.svg?style=plastic&logo=Docker)
+![C%23](https://img.shields.io/badge/C%23-red.svg?style=plastic)
+![MongoDB](https://img.shields.io/badge/MongoDB-blue.svg?style=plastic&logo=MongoDB)
+
+📫 How to reach me: ...
+
+[![Gmail](https://img.shields.io/badge/Gmail-lightgrey.svg?style=plastic&logo=Gmail)](tzlgdly@gmail.com)
+
+
+</div>
