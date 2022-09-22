@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Gary Leung** with currently studying in university.
+I am **Gary Leung** with currently studying in The Hong Kong University of Science and Technology.
 
 <div align="center">
 
