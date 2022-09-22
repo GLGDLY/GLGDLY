@@ -13,16 +13,19 @@ I am **Gary Leung** with currently studying in university.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=plastic&logo=javascript)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning / planning to learn ...
 
+![Matlab](https://img.shields.io/badge/Matlab-%2300f.svg?style=plastic)
+![C%23](https://img.shields.io/badge/C%23-red.svg?style=plastic)
 ![Go](https://img.shields.io/badge/go-green.svg?style=plastic&logo=Go)
 ![Docker](https://img.shields.io/badge/Docker-lightgrey.svg?style=plastic&logo=Docker)
-![C%23](https://img.shields.io/badge/C%23-red.svg?style=plastic)
 ![MongoDB](https://img.shields.io/badge/MongoDB-blue.svg?style=plastic&logo=MongoDB)
+![Rust](https://img.shields.io/badge/Rust-lightgreen.svg?style=plastic&logo=Rust)
 
 📫 How to reach me: ...
 
 [![Gmail](https://img.shields.io/badge/Gmail-lightgrey.svg?style=plastic&logo=Gmail)](mailto:tzlgdly@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%2300f.svg?style=plastic&logo=Discord&logoColor=white)](https://discordapp.com/users/402643893692137472)
 
 
 </div>
