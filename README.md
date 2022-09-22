@@ -22,7 +22,7 @@ I am **Gary Leung** with currently studying in university.
 
 📫 How to reach me: ...
 
-[![Gmail](https://img.shields.io/badge/Gmail-lightgrey.svg?style=plastic&logo=Gmail)](tzlgdly@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-lightgrey.svg?style=plastic&logo=Gmail)](mailto:tzlgdly@gmail.com)
 
 
 </div>
