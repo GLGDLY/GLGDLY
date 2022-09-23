@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Gary Leung** with currently studying in The Hong Kong University of Science and Technology.
+I am **Gary Leung** with currently studying in The HKUST.
 
 <div align="center">
 
@@ -22,7 +22,7 @@ I am **Gary Leung** with currently studying in The Hong Kong University of Scien
 ![MongoDB](https://img.shields.io/badge/MongoDB-blue.svg?style=plastic&logo=MongoDB)
 ![Rust](https://img.shields.io/badge/Rust-lightgreen.svg?style=plastic&logo=Rust)
 
-📫 How to reach me: ...
+📫 How to reach me ...
 
 [![Gmail](https://img.shields.io/badge/Gmail-lightgrey.svg?style=plastic&logo=Gmail)](mailto:tzlgdly@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%2300f.svg?style=plastic&logo=Discord&logoColor=white)](https://discordapp.com/users/402643893692137472)
