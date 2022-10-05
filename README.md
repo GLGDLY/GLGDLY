@@ -11,6 +11,7 @@ I am **Gary Leung** with currently studying in The HKUST.
 ![C++](https://img.shields.io/badge/c%2B%2B-blue.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=plastic&logo=javascript)
+![Docker](https://img.shields.io/badge/Docker-lightgrey.svg?style=plastic&logo=Docker)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 
 🌱 I’m currently learning / planning to learn ...
@@ -18,7 +19,6 @@ I am **Gary Leung** with currently studying in The HKUST.
 ![Matlab](https://img.shields.io/badge/Matlab-%2300f.svg?style=plastic)
 ![C%23](https://img.shields.io/badge/C%23-red.svg?style=plastic)
 ![Go](https://img.shields.io/badge/go-green.svg?style=plastic&logo=Go)
-![Docker](https://img.shields.io/badge/Docker-lightgrey.svg?style=plastic&logo=Docker)
 ![MongoDB](https://img.shields.io/badge/MongoDB-blue.svg?style=plastic&logo=MongoDB)
 ![Rust](https://img.shields.io/badge/Rust-lightgreen.svg?style=plastic&logo=Rust)
 
