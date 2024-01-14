@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Gary Leung</h1>
-<p>An engineering student currently studying in HKUST, also a member of the HKUST Robotics team (Robocon subteam).</p> 
+<p>An engineering student currently studying in HKUST.</p> 
 
 - 👨‍💻 All of my projects are available at [github repo](https://github.com/GLGDLY?tab=repositories)
 - 📫 How to reach me **tzlgdly@gmail.com** 
@@ -73,5 +73,7 @@
   </a>
 </p>
 
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GLGDLY&show_icons=true&locale=en&layout=compact" alt="glgdly" />
+<p>&nbsp; 
+  <!--<img align="center" src="https://raw.githubusercontent.com/GLGDLY/github-stats/master/generated/overview.svg" alt="glgdly" />!-->
+  <img align="center" src="https://raw.githubusercontent.com/GLGDLY/github-stats/master/generated/languages.svg" alt="glgdly" />
 </p>
