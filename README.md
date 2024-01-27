@@ -74,6 +74,6 @@
 </p>
 
 <p>&nbsp; 
-  <!--<img align="center" src="https://raw.githubusercontent.com/GLGDLY/github-stats/master/generated/overview.svg" alt="glgdly" />!-->
-  <img align="center" src="https://raw.githubusercontent.com/GLGDLY/github-stats/master/generated/languages.svg" alt="glgdly" />
+  <!--<img align="center" src="./generated/overview.svg" alt="glgdly" />!-->
+  <img align="center" src="./generated/languages.svg" alt="glgdly" />
 </p>
